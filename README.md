@@ -1,5 +1,8 @@
 # Reactive Forms Sample Code
 
+ robust way to manage forms in Angular; Reactive Forms.
+
+
 ## To get up and running..
 
 Clone this repository and run `npm install` 
